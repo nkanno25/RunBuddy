@@ -1,0 +1,30 @@
+body {
+    background-color: blue;
+    }
+
+    h1 {color: rgb(255, 255, 255);
+    text-decoration: underline;
+    font-family:Arial;
+    text-align: center;
+    font-size: 77px;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    text-align: center;
+
+}
+
+h3 {color: rgb(255, 255, 255);
+    font-size: 30px;}
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    text-align: center;
+}
+
+.easy {color: rgb(255, 255, 255);
+    font-size: 17px;
+}
